@@ -1,4 +1,4 @@
-P% Template MATLAB code for reading data from a private channel, analyzing
+% Template MATLAB code for reading data from a private channel, analyzing
 % the data and storing the analyzed data in another channel.
 
 % Prior to running this MATLAB code template, assign the channel variables.
