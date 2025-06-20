@@ -1,7 +1,7 @@
 # Templates in MATLAB Online for ThingSpeak
 You can use MATLAB&reg; to analyze your IoT data in ThingSpeak&trade;. Use MATLAB analysis apps to process data and MATLAB visualizations apps to create custom visualizations. These templates are available when you create a new app instance in ThingSpeak.  
 
-Use the links below to open the template code examples in MATLAB Online. Then you can test the code or make improvements and modifications in a full-fledged code editor.  ![Preview of MATLAB online.](([MO_Preview.png))
+Use the links below to open the template code examples in MATLAB Online. Then you can test the code or make improvements and modifications in a full-fledged code editor.  ![Preview of MATLAB Online](https://github.com/thingspeak/Templates-in-MATLAB-Online-for-ThingSpeak/main/MO_Preview.png?raw=true)
 
 Copy and paste the code back into the ThingSpeak MATLAB editor when you are ready to operationalize your code.
 
